@@ -40,5 +40,5 @@
 
 ###
 
-<p align="left"><a href="https://github.com/Thig0S-Uniplac"  style="text-decoration: none; color: black; "text-decoration: none; color: inherit;">❗Thig0S-Uniplac❗</a></p>
+<p align="left"><a href="https://github.com/Thig0S-Uniplac">❗Thig0S-Uniplac❗</a></p>
 
