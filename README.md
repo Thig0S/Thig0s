@@ -40,4 +40,4 @@
 
 ###
 
-<p aling="left">❗<a href="https://github.com/Thig0S-Uniplac">Thig0S-Uniplac</a></p>
+<p aling="left">❗<a href="https://github.com/Thig0S-Uniplac" text-decoration="none">Thig0S-Uniplac</a></p>
