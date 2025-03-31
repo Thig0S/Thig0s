@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thiago Kovalski tenho 19 anos e estudo Programação a 2 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados entre outros tópicos🗣🔥</p>
+<p align="left">Meu nome é Thiago Kovalski tenho 19 anos e estudo Programação a 2 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados e o que mais eu achar legal🗣🔥</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias Utilizadas 🔎</h2>
+<h2 align="left">Linguagens e Tecnologias Utilizadas (2022)🔎</h2>
 
 ###
 
