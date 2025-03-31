@@ -36,5 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 
 </div>
-<h4 aling="left">Conta Para Atividades da Faculdade🏫<br>Thig0S-Uniplac</h4>
+<h2 aling="left">Conta Para Atividades da Faculdade🏫<br></h2>
 ###
+<p aling="left">❗Thig0S-Uniplac❗</p>
