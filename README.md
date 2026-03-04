@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thiago Kovalski tenho 19 anos e estudo Programação a 2 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados e o que mais eu achar legal🗣🔥</p>
+<p align="left">Meu nome é Thiago Kovalski tenho 20 anos e estudo Programação a 3 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados e o que mais eu achar legal🗣🔥</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓<strong>Formação:</strong><br><br>🖥️ Sistemas Da Informação UNIPLAC 1/8<br>🖱️ Técnico em T.I CEDUP (2024) <Br>⌨️ Programador de Sistemas da Informação SENAI (2022)</p>
+<p align="left">🎓<strong>Formação:</strong><br><br>🖥️ Sistemas Da Informação UNIPLAC 3/8<br>🖱️ Técnico em T.I CEDUP (2024) <Br>⌨️ Programador de Sistemas da Informação SENAI (2022)</p>
 
 ###
 
