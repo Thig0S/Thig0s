@@ -1,8 +1,8 @@
-<h1 align="left">Como gótica 😋</h1>
+<h1 align="left">Olá 👋</h1>
 
 ###
 
-<p align="left">Meu nome é Thiago Kovalski tenho 20 anos e estudo Programação a 3 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados e o que mais eu achar legal🗣🔥</p>
+<p align="left">Meu nome é Thiago Kovalski tenho 20 anos e estudo Programação a 3 anos. <br>Estudando FrontEnd, BackEnd, Banco de dados e etc</p>
 
 ###
 
