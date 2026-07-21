@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓<strong>Formação:</strong><br><br>🖥️ Sistemas Da Informação UNIPLAC 4/8<br>🖱️ Técnico em T.I CEDUP (2024) <Br>⌨️ Programador de Sistemas da Informação SENAI (2022)<strong>💪 Academia do Programador 2026</strong></p>
+<p align="left">🎓<strong>Formação:</strong><br><br>🖥️ Sistemas Da Informação UNIPLAC 4/8<br>🖱️ Técnico em T.I CEDUP (2024) <Br>⌨️ Programador de Sistemas da Informação SENAI (2022)<br>💪 Academia do Programador 2026</strong></p>
 
 <h2 align="left">Linguagens e Tecnologias Utilizadas🔎</h2>
 
