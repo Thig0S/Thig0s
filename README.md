@@ -15,7 +15,6 @@
 <h2 align="left">📊 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thig0s&show_icons=true&theme=dracula" height="180" alt="Thiago's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thig0s&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top languages" />
 </div>
 
